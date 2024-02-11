@@ -1,5 +1,13 @@
 # FFThumbstick
 
+
+![The basic idea....to be minimized more](https://raw.githubusercontent.com/schnoog/FFThumbstick/main/files/Ideasketch1.jpg)
+
+
+
+
+
+
 ## Idea
 Minimize the well know 4-strain gauges analog joystick approach to have it in a size suitable for use in diy HOTAS...
 
